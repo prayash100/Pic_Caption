@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Flask specific
+instance/
+*.log
+
+# .env for environment variables (API keys, secrets, etc.)
+.env
+
+
+
+
+
+
+
